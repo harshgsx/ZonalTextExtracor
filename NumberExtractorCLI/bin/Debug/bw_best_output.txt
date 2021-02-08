@@ -1,0 +1,258 @@
+----------------
+E:\Projects\TiffOutput_BW\1.tiff
+Mean confidence: 0.7
+Text (GetText): 
+ 
+
+SGLZ554541
+
+----------------
+E:\Projects\TiffOutput_BW\10.tiff
+Mean confidence: 0.68
+Text (GetText): 
+ 
+
+ 
+
+SGEL34487927
+
+----------------
+E:\Projects\TiffOutput_BW\11.tiff
+Mean confidence: 0.86
+Text (GetText): 
+ 
+
+ 
+
+SGL3445350
+
+----------------
+E:\Projects\TiffOutput_BW\12.tiff
+Mean confidence: 0.83
+Text (GetText): 
+ 
+
+ 
+
+CTLZ2549608
+
+----------------
+E:\Projects\TiffOutput_BW\13.tiff
+Mean confidence: 0.7
+Text (GetText): 
+ 
+
+ 
+
+CTLE912109
+
+----------------
+E:\Projects\TiffOutput_BW\14.tiff
+Mean confidence: 0.47
+Text (GetText): 
+ 
+
+SJ/24/168/336069
+
+----------------
+E:\Projects\TiffOutput_BW\15.tiff
+Mean confidence: 0.55
+Text (GetText): 
+ 
+
+J/24/168/337009
+
+----------------
+E:\Projects\TiffOutput_BW\16.tiff
+Mean confidence: 0.95
+Text (GetText): 
+ 
+
+----------------
+E:\Projects\TiffOutput_BW\17.tiff
+Mean confidence: 0.53
+Text (GetText): 
+ 
+
+=J/24/168/336580
+
+----------------
+E:\Projects\TiffOutput_BW\18.tiff
+Mean confidence: 0.86
+Text (GetText): 
+ 
+
+CTL2551794
+
+----------------
+E:\Projects\TiffOutput_BW\19.tiff
+Mean confidence: 0.37
+Text (GetText): 
+ 
+
+S61 3366663
+
+----------------
+E:\Projects\TiffOutput_BW\2.tiff
+Mean confidence: 0.53
+Text (GetText): 
+ 
+
+SGL2GTITTES
+
+----------------
+E:\Projects\TiffOutput_BW\20.tiff
+Mean confidence: 0.66
+Text (GetText): 
+ 
+
+GJ/24M168/336115
+
+----------------
+E:\Projects\TiffOutput_BW\21.tiff
+Mean confidence: 0.47
+Text (GetText): 
+ 
+
+3J/24168/336086
+
+----------------
+E:\Projects\TiffOutput_BW\22.tiff
+Mean confidence: 0.63
+Text (GetText): 
+   
+
+ 
+
+(2J/24/168/336022
+
+----------------
+E:\Projects\TiffOutput_BW\23.tiff
+Mean confidence: 0.66
+Text (GetText): 
+   
+
+ 
+
+CI1Le910293
+
+----------------
+E:\Projects\TiffOutput_BW\24.tiff
+Mean confidence: 0.89
+Text (GetText): 
+   
+
+ 
+
+SGL3415684
+
+----------------
+E:\Projects\TiffOutput_BW\25.tiff
+Mean confidence: 0.5
+Text (GetText): 
+ 
+
+SG 3416676
+
+----------------
+E:\Projects\TiffOutput_BW\26.tiff
+Mean confidence: 0.31
+Text (GetText): 
+ 
+
+SGI 2682830
+
+----------------
+E:\Projects\TiffOutput_BW\27.tiff
+Mean confidence: 0.31
+Text (GetText): 
+ 
+
+CTL 25406857
+
+----------------
+E:\Projects\TiffOutput_BW\28.tiff
+Mean confidence: 0.47
+Text (GetText): 
+ 
+
+CTL 2540740 |
+
+----------------
+E:\Projects\TiffOutput_BW\29.tiff
+Mean confidence: 0.89
+Text (GetText): 
+ 
+
+CTLE908750 |
+
+----------------
+E:\Projects\TiffOutput_BW\3.tiff
+Mean confidence: 0.76
+Text (GetText): 
+ 
+
+SGL3445376
+
+----------------
+E:\Projects\TiffOutput_BW\30.tiff
+Mean confidence: 0.76
+Text (GetText): 
+ 
+
+SGL 3305340 |
+
+----------------
+E:\Projects\TiffOutput_BW\4.tiff
+Mean confidence: 0.31
+Text (GetText): 
+ 
+
+SEL 3445343
+
+----------------
+E:\Projects\TiffOutput_BW\5.tiff
+Mean confidence: 0.56
+Text (GetText): 
+ 
+
+SGEL3445368
+
+----------------
+E:\Projects\TiffOutput_BW\6.tiff
+Mean confidence: 0.63
+Text (GetText): 
+ 
+
+SEL34487T76
+
+----------------
+E:\Projects\TiffOutput_BW\7.tiff
+Mean confidence: 0.82
+Text (GetText): 
+ 
+
+ 
+
+SGEL2614360
+
+----------------
+E:\Projects\TiffOutput_BW\8.tiff
+Mean confidence: 0.74
+Text (GetText): 
+ 
+
+ 
+
+SGEL2614535
+
+----------------
+E:\Projects\TiffOutput_BW\9.tiff
+Mean confidence: 0.76
+Text (GetText): 
+ 
+
+ 
+
+SEL2614444
+

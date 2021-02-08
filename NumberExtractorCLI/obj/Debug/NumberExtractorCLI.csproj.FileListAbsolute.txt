@@ -1,0 +1,12 @@
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\bin\Debug\NumberExtractorCLI.exe.config
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\bin\Debug\NumberExtractorCLI.exe
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\bin\Debug\NumberExtractorCLI.pdb
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\obj\Debug\NumberExtractorCLI.csprojAssemblyReference.cache
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\obj\Debug\NumberExtractorCLI.exe
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\obj\Debug\NumberExtractorCLI.pdb
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\bin\Debug\x86\leptonica-1.80.0.dll
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\bin\Debug\x86\tesseract41.dll
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\bin\Debug\x64\leptonica-1.80.0.dll
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\bin\Debug\x64\tesseract41.dll
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\bin\Debug\Tesseract.dll
+E:\Projects\NumberExtractorTool\NumberExtractorCLI\obj\Debug\NumberExtractorCLI.csproj.CopyComplete
