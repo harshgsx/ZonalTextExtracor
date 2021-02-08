@@ -1,0 +1,8 @@
+E:\Projects\NumberExtractorTool\NumberExtractorTool\bin\Debug\NumberExtractorTool.exe.config
+E:\Projects\NumberExtractorTool\NumberExtractorTool\bin\Debug\NumberExtractorTool.exe
+E:\Projects\NumberExtractorTool\NumberExtractorTool\bin\Debug\NumberExtractorTool.pdb
+E:\Projects\NumberExtractorTool\NumberExtractorTool\obj\Debug\NumberExtractorTool.csprojAssemblyReference.cache
+E:\Projects\NumberExtractorTool\NumberExtractorTool\obj\Debug\NumberExtractorTool.Properties.Resources.resources
+E:\Projects\NumberExtractorTool\NumberExtractorTool\obj\Debug\NumberExtractorTool.csproj.GenerateResource.cache
+E:\Projects\NumberExtractorTool\NumberExtractorTool\obj\Debug\NumberExtractorTool.exe
+E:\Projects\NumberExtractorTool\NumberExtractorTool\obj\Debug\NumberExtractorTool.pdb
